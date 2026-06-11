@@ -31,3 +31,8 @@ The following chart compares defect volume between V1 and V2, highlighting the s
 This analysis identifies the severity breakdown of open defects. The introduction of critical bugs in V2, which were absent in V1, supports the rationale for the 'No-Go' decision.
 
 ![Severity Comparison](images/RDC_Open_Defects_by_Severity_V1_vs_V2.png)
+
+### Test Environment Architecture
+The following diagram illustrates the testing environment architecture, representing the interaction between the RDC application, the testing workstation, and external integration tools
+
+![Test Environment Architecture](images/RDC_Test_Environment_Architecture.png)
