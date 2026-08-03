@@ -36,3 +36,12 @@ This analysis identifies the severity breakdown of open defects. The introductio
 The following diagram illustrates the testing environment architecture, representing the interaction between the RDC application, the testing workstation, and external integration tools
 
 ![Test Environment Architecture](images/RDC_Test_Environment_Architecture.png)
+
+
+---
+### Important Note
+Please note that the documentation files are provided in Hebrew, as required by the academic guidelines of this course.
+
+### Authors
+* Ofek Katz
+* Ofir Zion
